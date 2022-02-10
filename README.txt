@@ -1,3 +1,1 @@
-click the window of orignal window to allow the move,
-the right and left change tha angle,
-the up and down move forward and back.
+This folder contains deprecated plain native libraries for platform windows-amd64, please use the native JAR files in the jar folder.
